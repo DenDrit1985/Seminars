@@ -1,0 +1,15 @@
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\bin\Debug\net6.0\Exersice10.exe
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\bin\Debug\net6.0\Exersice10.deps.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\bin\Debug\net6.0\Exersice10.runtimeconfig.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\bin\Debug\net6.0\Exersice10.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\bin\Debug\net6.0\Exersice10.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.csproj.AssemblyReference.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.AssemblyInfoInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.AssemblyInfo.cs
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.csproj.CoreCompileInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\refint\Exersice10.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\Exersice10.genruntimeconfig.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_2\HomeWork_2\Exersice10\obj\Debug\net6.0\ref\Exersice10.dll

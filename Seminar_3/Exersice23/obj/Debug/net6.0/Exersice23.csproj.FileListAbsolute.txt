@@ -1,0 +1,15 @@
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.csproj.AssemblyReference.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.AssemblyInfoInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.AssemblyInfo.cs
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.csproj.CoreCompileInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\bin\Debug\net6.0\Exersice23.exe
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\bin\Debug\net6.0\Exersice23.deps.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\bin\Debug\net6.0\Exersice23.runtimeconfig.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\bin\Debug\net6.0\Exersice23.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\bin\Debug\net6.0\Exersice23.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\refint\Exersice23.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\Exersice23.genruntimeconfig.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice23\obj\Debug\net6.0\ref\Exersice23.dll

@@ -1,0 +1,15 @@
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.csproj.AssemblyReference.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.AssemblyInfoInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.AssemblyInfo.cs
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.csproj.CoreCompileInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\bin\Debug\net6.0\Exersice19.exe
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\bin\Debug\net6.0\Exersice19.deps.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\bin\Debug\net6.0\Exersice19.runtimeconfig.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\bin\Debug\net6.0\Exersice19.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\bin\Debug\net6.0\Exersice19.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\refint\Exersice19.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\Exersice19.genruntimeconfig.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_3\HomeWork_3\Exersice19\obj\Debug\net6.0\ref\Exersice19.dll

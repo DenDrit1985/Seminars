@@ -1,0 +1,15 @@
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\bin\Debug\net6.0\Exersice_8.1.exe
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\bin\Debug\net6.0\Exersice_8.1.deps.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\bin\Debug\net6.0\Exersice_8.1.runtimeconfig.json
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\bin\Debug\net6.0\Exersice_8.1.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\bin\Debug\net6.0\Exersice_8.1.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.csproj.AssemblyReference.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.AssemblyInfoInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.AssemblyInfo.cs
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.csproj.CoreCompileInputs.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\refint\Exersice_8.1.dll
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.pdb
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\Exersice_8.1.genruntimeconfig.cache
+D:\GB\3774_home\ProgrammSeminars\Seminars\Seminar_1\HomeWork_1\Exersises\Exersice_8.1\obj\Debug\net6.0\ref\Exersice_8.1.dll
