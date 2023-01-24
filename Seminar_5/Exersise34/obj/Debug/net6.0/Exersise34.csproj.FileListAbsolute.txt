@@ -1,0 +1,15 @@
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\bin\Debug\net6.0\Exersise34.exe
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\bin\Debug\net6.0\Exersise34.deps.json
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\bin\Debug\net6.0\Exersise34.runtimeconfig.json
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\bin\Debug\net6.0\Exersise34.dll
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\bin\Debug\net6.0\Exersise34.pdb
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.csproj.AssemblyReference.cache
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.AssemblyInfoInputs.cache
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.AssemblyInfo.cs
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.csproj.CoreCompileInputs.cache
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.dll
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\refint\Exersise34.dll
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.pdb
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\Exersise34.genruntimeconfig.cache
+D:\GB\3774_home\ProgrammSeminars\DZ\Seminar_5\Exersise34\obj\Debug\net6.0\ref\Exersise34.dll
